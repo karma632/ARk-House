@@ -1,0 +1,43 @@
+a{
+    text-decoration: none !important;
+    color: black !important;
+}
+
+
+.ark-nav-txt h2{
+    font-size: 20px;
+    font-weight:600 ;
+    line-height:24px ;
+}
+
+.ark-nav-txt p{
+    font-size: 12px;
+    font-weight:600 ;
+    line-height:16px ;
+    margin-bottom: 8px;
+}
+
+.ark-btm{
+    border-bottom: 2px solid;
+    padding-top: 12px;
+}
+
+.bg-image {
+    background-image: url('../assets/images/ark-bg-img.svg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    height: 551px;
+    margin-top: 76px
+}
+
+.offcanvas-half {
+    width: 70% !important;
+}
+
+.ark-nav-txt h2:hover {
+    border-bottom: 3px solid black;
+    color: black;
+   
+}
